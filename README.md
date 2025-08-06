@@ -1,21 +1,19 @@
 # Repository Data Description
-This repository contains climate variables at the Amphur (district) level, with data aggregated to a yearly frequency. The data is partitioned into separate CSV files, each covering a single decade, to manage file size.
+This repository contains climate variables at the Amphur (district) level in Thailand, with data aggregated to a yearly frequency. The data is partitioned into separate CSV files, each covering a single decade, to manage file size.
 
 ## File Naming Convention:
-
 - `df_amphur_climate_agg_var-option-3-<DECADES>.csv`
-
 - `<DECADES>` specifies the decade the file covers (e.g., 1990s).
+
+## Available Time Periods:
+- Historical Data: 1990–2024
+- Future Projections: 2040–2070
 
 ## Data Structure:
 Each file contains four primary climate measurements, along with decomposed variables based on the methodology from Burney (2024):
-
 - Temperature (t): Celsius degrees.
-
 - Precipitation (p): Millimeters.
-
 - spi3m: 3-month moving average of the Standardized Precipitation Index.
-
 - spi6m: 6-month moving average of the Standardized Precipitation Index.
 
 ## Decomposed Variables:
@@ -36,3 +34,6 @@ For each climate measurement (X), the following variables are included:
 - cov: Covariate shock
 - idio: Idiosyncratic shock
 - level: nation, region, or province
+- wet: Including May to October (except some provinces in Southern region will be August to January)
+- dry: Including November to April (except some provinces in Southern region will be February to July)
+- year: For `option-3` year designation, year will be assigned considering the most frequent year of given original monthly data. For example, in the special southern provinces, Aug'17 to Jan'18 will be assigned to Wet-2017 and Feb'18 to Jul'18 will be assigned to Dry-2018.
