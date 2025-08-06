@@ -1,16 +1,36 @@
-This repo is created to share Amphur's level climate variables.
-- Each 'df_amphur_climate_agg_var-option-3-<DECADES>.csv' file contains one decade of data (this is done to limit file size per not too large to upload using normal git push)
-- The file is at Amphur's level at one-year frequency.
-- Each file consists of 4 types of climate measurement / indicator
-  - t: temperature (celsius degree)
-  - p: precipitation (mm.)
-  - spi3m: SPI moving average of 3 months
-  - spi6m: SPI moving average of 6 months
-- For each climate measurement / indicator, there is a set of decomposed variables based on Burney 2024
-  - <X>_hat: represent average (or sum for precipitation) yearly expected climate measurement calculated using baseline (intercept) and time trend
-  - <X>_hat0: represent expected climate measurement at first period
-  - <X>_<wet/dry>_hat: represent average (or sum for precipitation) seasonal expected climate measurement calculated using baseline (intercept) and time trend
-  - <X>_<wet/dry>_seasonal: represent average (or sum for precipitation) of monthly seasonal deviation
-  - <X>_<wet/dry>_abs_seasonal: represent average (or sum for precipitation) of absolute monthly seasonal deviation
-  - <X>_<wet/dry>_<covariate/idio>_<nation/region/province>: represent average (or sum for precipitation) of coviariate/idio syncratic shock at specific level
-  - <X>_<wet/dry>_<covariate/idio>_<nation/region/province>: represent average (or sum for precipitation) of absolute coviariate/idio syncratic shock at specific level
+# Repository Data Description
+This repository contains climate variables at the Amphur (district) level, with data aggregated to a yearly frequency. The data is partitioned into separate CSV files, each covering a single decade, to manage file size.
+
+## File Naming Convention:
+
+- df_amphur_climate_agg_var-option-3-<DECADES>.csv
+
+- <DECADES> specifies the decade the file covers (e.g., 1990s).
+
+## Data Structure:
+Each file contains four primary climate measurements, along with decomposed variables based on the methodology from Burney (2024):
+
+- Temperature (t): Celsius degrees.
+
+- Precipitation (p): Millimeters.
+
+- SPI3m: 3-month moving average of the Standardized Precipitation Index.
+
+- SPI6m: 6-month moving average of the Standardized Precipitation Index.
+
+## Decomposed Variables:
+For each climate measurement (X), the following variables are included:
+
+## Variable Name	Description
+- X_hat	Yearly expected average (or sum for precipitation) based on a baseline and time trend.
+- X_hat0	Expected value at the start of the period.
+- X_<wet/dry>_hat	Seasonal expected average (or sum for precipitation) based on a baseline and time trend.
+- X_<wet/dry>_seasonal	Average (or sum for precipitation) of monthly seasonal deviation.
+- X_<wet/dry>_abs_seasonal	Average (or sum for precipitation) of absolute monthly seasonal deviation.
+- X_<wet/dry>_<cov/idio>_<level>	Average (or sum for precipitation) of covariate/idiosyncratic shocks at the specified geographic level (nation, region, or province).
+- X_<wet/dry>_abs_<cov/idio>_<level>	Average (or sum for precipitation) of absolute covariate/idiosyncratic shocks at the specified geographic level (nation, region, or province).
+
+Note
+- cov: Covariate shock
+- idio: Idiosyncratic shock
+- level: nation, region, or province
