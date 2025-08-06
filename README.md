@@ -1,0 +1,16 @@
+This repo is created to share Amphur's level climate variables.
+- Each 'df_amphur_climate_agg_var-option-3-<DECADES>.csv' file contains one decade of data (this is done to limit file size per not too large to upload using normal git push)
+- The file is at Amphur's level at one-year frequency.
+- Each file consists of 4 types of climate measurement / indicator
+  - t: temperature (celsius degree)
+  - p: precipitation (mm.)
+  - spi3m: SPI moving average of 3 months
+  - spi6m: SPI moving average of 6 months
+- For each climate measurement / indicator, there is a set of decomposed variables based on Burney 2024
+  - <X>_hat: represent average (or sum for precipitation) yearly expected climate measurement calculated using baseline (intercept) and time trend
+  - <X>_hat0: represent expected climate measurement at first period
+  - <X>_<wet/dry>_hat: represent average (or sum for precipitation) seasonal expected climate measurement calculated using baseline (intercept) and time trend
+  - <X>_<wet/dry>_seasonal: represent average (or sum for precipitation) of monthly seasonal deviation
+  - <X>_<wet/dry>_abs_seasonal: represent average (or sum for precipitation) of absolute monthly seasonal deviation
+  - <X>_<wet/dry>_<covariate/idio>_<nation/region/province>: represent average (or sum for precipitation) of coviariate/idio syncratic shock at specific level
+  - <X>_<wet/dry>_<covariate/idio>_<nation/region/province>: represent average (or sum for precipitation) of absolute coviariate/idio syncratic shock at specific level
