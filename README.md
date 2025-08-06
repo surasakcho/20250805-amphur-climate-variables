@@ -3,9 +3,9 @@ This repository contains climate variables at the Amphur (district) level, with 
 
 ## File Naming Convention:
 
-- df_amphur_climate_agg_var-option-3-<DECADES>.csv
+- `df_amphur_climate_agg_var-option-3-<DECADES>.csv`
 
-- <DECADES> specifies the decade the file covers (e.g., 1990s).
+- `<DECADES>` specifies the decade the file covers (e.g., 1990s).
 
 ## Data Structure:
 Each file contains four primary climate measurements, along with decomposed variables based on the methodology from Burney (2024):
@@ -14,23 +14,25 @@ Each file contains four primary climate measurements, along with decomposed vari
 
 - Precipitation (p): Millimeters.
 
-- SPI3m: 3-month moving average of the Standardized Precipitation Index.
+- spi3m: 3-month moving average of the Standardized Precipitation Index.
 
-- SPI6m: 6-month moving average of the Standardized Precipitation Index.
+- spi6m: 6-month moving average of the Standardized Precipitation Index.
 
 ## Decomposed Variables:
 For each climate measurement (X), the following variables are included:
 
-## Variable Name	Description
-- X_hat	Yearly expected average (or sum for precipitation) based on a baseline and time trend.
-- X_hat0	Expected value at the start of the period.
-- X_<wet/dry>_hat	Seasonal expected average (or sum for precipitation) based on a baseline and time trend.
-- X_<wet/dry>_seasonal	Average (or sum for precipitation) of monthly seasonal deviation.
-- X_<wet/dry>_abs_seasonal	Average (or sum for precipitation) of absolute monthly seasonal deviation.
-- X_<wet/dry>_<cov/idio>_<level>	Average (or sum for precipitation) of covariate/idiosyncratic shocks at the specified geographic level (nation, region, or province).
-- X_<wet/dry>_abs_<cov/idio>_<level>	Average (or sum for precipitation) of absolute covariate/idiosyncratic shocks at the specified geographic level (nation, region, or province).
+## Variable Name	Description:
+- `X_hat`	Yearly expected average (or sum for precipitation) based on a baseline and time trend.
+- `X_hat1`	Expected value at the start of the first period.
+- `X_<wet/dry>_hat`	Seasonal expected average (or sum for precipitation) based on a baseline and time trend.
+- `X_<wet/dry>_seasonal`	Average (or sum for precipitation) of monthly seasonal deviation.
+- `X_<wet/dry>_abs_seasonal`	Average (or sum for precipitation) of absolute monthly seasonal deviation.
+- `X_<wet/dry>_<cov/idio>_<level>`	Average (or sum for precipitation) of covariate/idiosyncratic shocks at the specified geographic level (nation, region, or province).
+- `X_<wet/dry>_abs_<cov/idio>_<level>`	Average (or sum for precipitation) of absolute covariate/idiosyncratic shocks at the specified geographic level (nation, region, or province).
+- `X_intercept` Baseline value just before the start of the first period
+- `X_trend` Trend term or estimated slope of measturement
 
-Note
+## Note:
 - cov: Covariate shock
 - idio: Idiosyncratic shock
 - level: nation, region, or province
