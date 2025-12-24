@@ -1898,7 +1898,7 @@
       "size": 24,
       "color": "black"
     },
-    "text": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19",
+    "text": "ปริมาณน้ำฝน",
     "y": 0.05,
     "x": 0.5,
     "xanchor": "center",

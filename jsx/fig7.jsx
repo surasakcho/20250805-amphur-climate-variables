@@ -1,10 +1,10 @@
 <LazyPlotly
   data={[
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -25,24 +25,24 @@
       0.113657527214595
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -63,24 +63,24 @@
       0.0106508105580558
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -101,24 +101,24 @@
       0.063088584992542
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -139,24 +139,24 @@
       0.014421272280685
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -177,24 +177,24 @@
       0.000527599168382406
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -215,24 +215,24 @@
       0.0393390007433789
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -253,24 +253,24 @@
       0.0154596721776828
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -291,24 +291,24 @@
       0.033122831525689
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -329,24 +329,24 @@
       0.00352915909495894
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -367,24 +367,24 @@
       0.000333633556361976
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -405,24 +405,24 @@
       0.0131079398875846
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -443,24 +443,24 @@
       0.0131395222626322
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -481,24 +481,24 @@
       0.0240686648827645
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -519,24 +519,24 @@
       0.00111746573886287
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -557,24 +557,24 @@
       0.000859072691785544
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -595,24 +595,24 @@
       0.0393033375622219
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -633,24 +633,24 @@
       0.0162635103879845
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -671,24 +671,24 @@
       0.0469455581678508
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -709,24 +709,24 @@
       0.0122632624060256
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -747,24 +747,24 @@
       0.0106875798599745
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -785,24 +785,24 @@
       0.0906469869986534
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -823,24 +823,24 @@
       0.0302265888379905
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -861,24 +861,24 @@
       0.136408560596887
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -899,24 +899,24 @@
       0.00479412437451332
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -937,24 +937,24 @@
       0.0029918510117005
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -975,24 +975,24 @@
       0.00953260367927569
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1013,24 +1013,24 @@
       0.0314999816344278
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1051,24 +1051,24 @@
       0.0407629104901863
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1089,24 +1089,24 @@
       0.00890661325250423
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1127,24 +1127,24 @@
       0.00249498474387959
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1165,24 +1165,24 @@
       0.00694547273831324
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1203,24 +1203,24 @@
       0.0111414446737086
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1241,24 +1241,24 @@
       0.0205722054316824
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1279,24 +1279,24 @@
       0.0085956559943202
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1317,24 +1317,24 @@
       0.0252355841085906
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1355,24 +1355,24 @@
       0.00626644015460163
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1393,24 +1393,24 @@
       0.0348727683009654
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1431,24 +1431,24 @@
       0.00414671242660257
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1469,24 +1469,24 @@
       0.0313639830025684
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1507,24 +1507,24 @@
       0.00475470835245701
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1545,24 +1545,24 @@
       0.00354902648101828
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1583,24 +1583,24 @@
       0.0339308503887362
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1621,24 +1621,24 @@
       0.028802860583467
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1659,24 +1659,24 @@
       0.00647588216000487
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1697,24 +1697,24 @@
       0.0020282566773272
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "อ้อย",
+      "มันสำปะหลัง",
+      "ข้าวเหนียว",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1731,20 +1731,20 @@
       0.0310904077883404
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1761,20 +1761,20 @@
       0.150244752175155
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1791,20 +1791,20 @@
       0.0213867144271716
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1821,20 +1821,20 @@
       0.0299025954475235
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1851,20 +1851,20 @@
       0.0105336330708578
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1881,20 +1881,20 @@
       0.0133449964485296
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1911,20 +1911,20 @@
       0.0410171259038147
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1941,20 +1941,20 @@
       0.0794417511877051
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1971,20 +1971,20 @@
       0.0284652290398557
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -2001,20 +2001,20 @@
       0.0303248398259439
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -2031,20 +2031,20 @@
       0.00583715625417511
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -2061,20 +2061,20 @@
       0.166955154065811
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -2091,20 +2091,20 @@
       0.0138623274096919
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -2121,20 +2121,20 @@
       0.00178476198250777
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Crop: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -2151,10 +2151,10 @@
       0.0323340621975013
     ],
     "y": [
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34"
+      "ทุเรียน",
+      "ยางพารา",
+      "ข้าวเจ้า",
+      "ข้าวหอมมะลิ"
     ],
     "type": "bar",
     "xaxis": "x4",
@@ -3055,7 +3055,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07</b>",
+      "text": "<b>ภาคกลาง</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",
@@ -3068,7 +3068,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d</b>",
+      "text": "<b>ภาคเหนือ</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",
@@ -3081,7 +3081,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d</b>",
+      "text": "<b>ภาคตะวันออกเฉียงเหนือ</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",
@@ -3094,7 +3094,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e43\u0e15\u0e49</b>",
+      "text": "<b>ภาคใต้</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",

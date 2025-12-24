@@ -1,10 +1,10 @@
 <LazyPlotly
   data={[
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -19,19 +19,19 @@
       "bdata": "g555IVjKfj9GMmhpCjCiP2glnD+cZXc/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -46,19 +46,19 @@
       "bdata": "PY+RyIB3sz9UiICnUzWlP4qkW8fqI6A/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -73,19 +73,19 @@
       "bdata": "nrYIvkondT8QlejslYOCPysDjWJiUnQ/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -100,19 +100,19 @@
       "bdata": "CrN2sl69lj/dTjnOvrOlP52sA8oGArE/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -127,19 +127,19 @@
       "bdata": "fncQ/EE0fj80MZcI7gqZP79S08XqlJE/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -154,19 +154,19 @@
       "bdata": "pQr2MXxYjz/P1Cns5Q6mP14NxPzqQ4A/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -181,19 +181,19 @@
       "bdata": "xI9P6JmIij8I0TQbTDeCP8eJPywDWZc/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -208,19 +208,19 @@
       "bdata": "39B10Ny6eT/qPi+r8SGOP9H5P28d63Y/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -235,19 +235,19 @@
       "bdata": "fVCiCM1Wfz+AE2Ik7S2WP9c5meIrc3o/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -262,19 +262,19 @@
       "bdata": "qZqm1sB2cz9DfXr0QiiuP/JCF519zrQ/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -289,19 +289,19 @@
       "bdata": "Q0wCA1dWgT980ktqDRKMP7LeWF41TY4/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -316,19 +316,19 @@
       "bdata": "NVnk2VVLnD/AXnPKYLh0Pwr6a3UjIZM/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -343,19 +343,19 @@
       "bdata": "HFWEc+CPdD9IkS5slvCBP3nzhunWBXs/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -370,19 +370,19 @@
       "bdata": "8GoXIrGFZT+7GDldSm2YP21u7KjTGJg/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคกลาง<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -397,19 +397,19 @@
       "bdata": "ev9bmbyxlT8NRr4CKrhSP9e8ogyx5cU/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x",
     "yaxis": "y"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -424,19 +424,19 @@
       "bdata": "4/KSMAK1ej+AMkS9q4+XP7Dg5EzcDXc/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -451,19 +451,19 @@
       "bdata": "30y0BI/0sj8qupD9nZiXP5fIjngRh6Y/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -478,19 +478,19 @@
       "bdata": "UDIXG3mkZz/bkAqNf1iOP5jGyXkxu3M/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -505,19 +505,19 @@
       "bdata": "KZA9sR9toT/kM3VD3tWgP1FiZBPT6qc/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -532,19 +532,19 @@
       "bdata": "nzAvoqGXlT+hscDY94KQP58AQMUPrZI/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -559,19 +559,19 @@
       "bdata": "5lp0FV8hkT/gRAjrs+mkP84CXFf/qIg/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -586,19 +586,19 @@
       "bdata": "/zcyMqUqkz96l/pARpeWP0YtDLSf2GM/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -613,19 +613,19 @@
       "bdata": "sGTm84Ihmz8NuBFymYq0P4NIkaik7n8/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -640,19 +640,19 @@
       "bdata": "ft6I2le5hz/Qi3ulNRd2P7MGArGjnZ4/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -667,19 +667,19 @@
       "bdata": "OHAjw9zvpT/XWqV+M8S/P88A76HZDL4/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -694,19 +694,19 @@
       "bdata": "SB92VDiGaT8k8OHAm696P1ZCXnuyqGg/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -721,19 +721,19 @@
       "bdata": "ZSuxJT9SmD8HfOG5hwWFP5M0ha/+zoE/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -748,19 +748,19 @@
       "bdata": "l1fdRRX2iD+WVvmClS6gP/9gJ0QTcpM/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -775,19 +775,19 @@
       "bdata": "ofP6IwKDkD+QLDDIeDSBP6ppdQFGFq4/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคเหนือ<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -802,19 +802,19 @@
       "bdata": "a8tDjxNQsD+2wwrRZCB2P/rG7PufJ8o/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x2",
     "yaxis": "y2"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -829,19 +829,19 @@
       "bdata": "x238XaSzij8Jy8wQgLKLP2XTRxB454A/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -856,19 +856,19 @@
       "bdata": "jxjYx11DoD+tWwgW6A+xPynH171M9MA/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -883,19 +883,19 @@
       "bdata": "idL5u3XSdT8GrGB3JiV2P5QDjuU/tJA/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -910,19 +910,19 @@
       "bdata": "bYlsdRdUpj8U+oER6H+lPwXxhuPG1qE/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -937,19 +937,19 @@
       "bdata": "VKq8jZphjT+d2TXbDCKOPyAp4H/WXoo/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -964,19 +964,19 @@
       "bdata": "xKWNE1GJiD+m8NM/59SbP4EG7kBy2no/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -991,19 +991,19 @@
       "bdata": "sPT+8oPhkz8zHMY8J1aLP7U4yjCOxJM/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1018,19 +1018,19 @@
       "bdata": "tXc9Fe8jhz+QRZsUGAWbP5WdGUE/jYU/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1045,19 +1045,19 @@
       "bdata": "2KbJiB4dfz9j4Q/UNt55Pz8gb1XW7Gs/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1072,19 +1072,19 @@
       "bdata": "hsTCTzEahz83tw5aqfGwPy3mWdnFaKo/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1099,19 +1099,19 @@
       "bdata": "D24tPDCjhT9TEjT47UV5P+FXFcHfU4M/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1126,19 +1126,19 @@
       "bdata": "HiNZfQK2hD/+jBAxoeiYP6KQASIhUKE/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1153,19 +1153,19 @@
       "bdata": "rP6G7sOrgD/Xge50ca+HP2WuddMLQJg/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1180,19 +1180,19 @@
       "bdata": "EuQKRO/ZZD/bfSsLvzd3PwtH1EhWcXU/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคตะวันออกเฉียงเหนือ<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1207,19 +1207,19 @@
       "bdata": "/ukwLz37sz+OaVD05TyGPxEJlO2VK8M/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x3",
     "yaxis": "y3"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: Baseline T<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1234,19 +1234,19 @@
       "bdata": "+TCpeocmiT/CGPixVGeZP2hU4wlloHY/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: T Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1261,19 +1261,19 @@
       "bdata": "y6FZzFf6oD9sYmsS30+aP68TUNJ90KE/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: T Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1288,19 +1288,19 @@
       "bdata": "oCkV1inoiT9+vUSHmNyZP7jZWUWoWIs/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: T Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1315,19 +1315,19 @@
       "bdata": "DQxinhSnmD8gggufcVWQP99oVtME4ns/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: T Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1342,19 +1342,19 @@
       "bdata": "8/iRHiCziz9yJRzNtmZ6P180BeowuIM/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: Baseline P<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1369,19 +1369,19 @@
       "bdata": "w61iaEOdYz+737qGYlGOPx9HWQGpU3k/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: P Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1396,19 +1396,19 @@
       "bdata": "sxEydWwDgT8REs5alw+hP3+gjyFxsKk/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: P Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1423,19 +1423,19 @@
       "bdata": "XP3AnvFVaD+WGfB4cTR9PwLXL0mKy4U/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: P Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1450,19 +1450,19 @@
       "bdata": "gy+M2i2tfT+MsF3V8W5/P0zMBh+DJZo/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: P Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1477,19 +1477,19 @@
       "bdata": "6fWXfOJQkD8oTP5HDTyfP36PqyjxrrA/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: Baseline SPI<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1000,
     "marker": {
@@ -1504,19 +1504,19 @@
       "bdata": "hUNkbfxfcD+s+2u9PbKTP58LTD3ZDJc/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: SPI Trend<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 999,
     "marker": {
@@ -1531,19 +1531,19 @@
       "bdata": "h3u2gbtCgz8NnAGUG1eyP6HuZKslqr8/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: SPI Seasonal<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 998,
     "marker": {
@@ -1558,19 +1558,19 @@
       "bdata": "wS3NiixhiD+6DNH4/dqZP5iBVTAzm6o/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: SPI Idiosyncratic<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 997,
     "marker": {
@@ -1585,19 +1585,19 @@
       "bdata": "XMq9jg2vqT9ogtfKdVS4P8smy/ngVGc/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
     "yaxis": "y4"
   },
   {
-    "hovertemplate": "Region: \u0e20\u0e32\u0e04\u0e43\u0e15\u0e49<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "hovertemplate": "Region: ภาคใต้<br>Credit: %{y}<br>Var: SPI Covariate<br>Value: %{x:.2%}<extra></extra>",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 996,
     "marker": {
@@ -1612,9 +1612,9 @@
       "bdata": "sENzoEtZjT+hQIkMfLeCP8BbjmrRnak/"
     },
     "y": [
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19"
+      "หนี้เสียใหม่",
+      "หนี้เสีย",
+      "จ่ายเงินต้น"
     ],
     "type": "bar",
     "xaxis": "x4",
@@ -2515,7 +2515,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e01\u0e25\u0e32\u0e07</b>",
+      "text": "<b>ภาคกลาง</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",
@@ -2528,7 +2528,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e40\u0e2b\u0e19\u0e37\u0e2d</b>",
+      "text": "<b>ภาคเหนือ</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",
@@ -2541,7 +2541,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01\u0e40\u0e09\u0e35\u0e22\u0e07\u0e40\u0e2b\u0e19\u0e37\u0e2d</b>",
+      "text": "<b>ภาคตะวันออกเฉียงเหนือ</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",
@@ -2554,7 +2554,7 @@
         "size": 24
       },
       "showarrow": false,
-      "text": "<b>\u0e20\u0e32\u0e04\u0e43\u0e15\u0e49</b>",
+      "text": "<b>ภาคใต้</b>",
       "x": -0.22,
       "xanchor": "right",
       "xref": "paper",

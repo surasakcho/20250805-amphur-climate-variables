@@ -2,12 +2,12 @@
   data={[
   {
     "hovertemplate": "<b>%{y}</b><br>Baseline T: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 0,
     "marker": {
@@ -21,20 +21,20 @@
       "bdata": "1TyMKELpmD/orpoXtqGdP3ps21pbn2U/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Trend: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1,
     "marker": {
@@ -48,20 +48,20 @@
       "bdata": "YsRmlC2dpj9z0fwHbbqbPwvJa7/Muak/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Seasonal: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 2,
     "marker": {
@@ -75,20 +75,20 @@
       "bdata": "pYfp93iKkD/4KJzlUh+UP/UMFGEeJ2s/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Idiosyncratic: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 3,
     "marker": {
@@ -102,20 +102,20 @@
       "bdata": "fLaw25R5kD+XYmswFBqHPxW3tpl7VGo/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Covariate: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 4,
     "marker": {
@@ -129,20 +129,20 @@
       "bdata": "Ffl/EArAiD/doT/nx+qOP3FqXPdP/YU/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>Baseline P: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 0,
     "marker": {
@@ -156,20 +156,20 @@
       "bdata": "Ty8/oVyIhz+vbCkIhBubPziuIPAf84s/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Trend: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1,
     "marker": {
@@ -183,20 +183,20 @@
       "bdata": "E1fQJAmIhD/A83skj95yP0J/A+zGZ3s/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Seasonal: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 2,
     "marker": {
@@ -210,20 +210,20 @@
       "bdata": "QX22UhgvZz9cGSJGB459P0qiXhqVSV8/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Idiosyncratic: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 3,
     "marker": {
@@ -237,20 +237,20 @@
       "bdata": "tqOaRSA9gD+0jRUCUL2CP3/meMJ22Wo/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Covariate: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 4,
     "marker": {
@@ -264,20 +264,20 @@
       "bdata": "bTKNjkUFtD8/owVcpWivP9Fdq4grc2k/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>Baseline SPI: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 0,
     "marker": {
@@ -291,20 +291,20 @@
       "bdata": "qi+AVp+Xiz+c45Yc3pqZPzvCSNLlUHE/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Trend: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1,
     "marker": {
@@ -318,20 +318,20 @@
       "bdata": "p2wAj+qpkD/6i7+97ld8P7kQUrI/+os/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Seasonal: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 2,
     "marker": {
@@ -345,20 +345,20 @@
       "bdata": "CrG099cXjD/8m8RhZGWTP9bB0saf1VA/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Idiosyncratic: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 3,
     "marker": {
@@ -372,20 +372,20 @@
       "bdata": "peJ9FCsjej8trjif2R2aPwyuLl1d14I/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Covariate: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 4,
     "marker": {
@@ -399,9 +399,9 @@
       "bdata": "D8uYcV+owj/1/cQwrTxIPxrCZ77he6E/"
     },
     "y": [
-      "\u0e08\u0e48\u0e32\u0e22\u0e40\u0e07\u0e34\u0e19\u0e15\u0e49\u0e19",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22",
-      "\u0e2b\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      "จ่ายเงินต้น",
+      "หนี้เสีย",
+      "หนี้เสียใหม่"
     ],
     "type": "bar"
   }

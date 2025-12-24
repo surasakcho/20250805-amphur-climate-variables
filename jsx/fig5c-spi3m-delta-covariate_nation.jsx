@@ -1898,7 +1898,7 @@
       "size": 24,
       "color": "black"
     },
-    "text": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "text": "ดัชนี SPI-3",
     "y": 0.05,
     "x": 0.5,
     "xanchor": "center",

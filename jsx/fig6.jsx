@@ -2,12 +2,12 @@
   data={[
   {
     "hovertemplate": "<b>%{y}</b><br>Baseline T: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 0,
     "marker": {
@@ -21,25 +21,25 @@
       "bdata": "0Q31IK44hD8/yDqU1letP1X+xC4OjpM/ncXxGi9fYj/Z2/DW7so0P5izpyc+Gn4/gAmq5H6lUz+kS8m/wzWtPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Trend: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 1,
     "marker": {
@@ -53,25 +53,25 @@
       "bdata": "ZS3H7+pohj+XZSCXkISPPxnJN04fi5E/vmXEzuR2rT/j3BKiDV63P3f5IIBR34w/xMbEs1/jsT8fglWb4C1nPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Seasonal: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 2,
     "marker": {
@@ -85,25 +85,25 @@
       "bdata": "KsJE1OiCiz8zvs0I3z6cP6TaWJaWjoM/r9Olxbobjj9exutoyL9SP5lM4aY4ZZU/gY1G1qBebT/cDbOwupWRPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Idiosyncratic: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 3,
     "marker": {
@@ -117,25 +117,25 @@
       "bdata": "LAbzpSBMbT9xraeF3Pu3P3s+f50si2E/BOLd9VI/Xz9AgCYOxG1gPy+bM+vYNX0/8u8mLCzrYz/GruhNWFp/Pw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>T Covariate: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)",
+    "legendgroup": "อุณหภูมิ (T)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34 (T)</b>"
+      "text": "<b>อุณหภูมิ (T)</b>"
     },
     "legendrank": 4,
     "marker": {
@@ -149,25 +149,25 @@
       "bdata": "aQTSpbKZQD8XisBivSCHP9+XdJU2zGk/JTdqv708cz/+zLrephWiPx0PQhEkzIM/GH41eUg7mD8M4KsaJMFKPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>Baseline P: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 0,
     "marker": {
@@ -181,25 +181,25 @@
       "bdata": "OvPSgN/LhT/qtgw399uuP2owPM9eRpE/2t5Cirveij9k8gmvtY1bP0hCj08yXnM/8bux1FeDdj/SQBEl0J6nPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Trend: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 1,
     "marker": {
@@ -213,25 +213,25 @@
       "bdata": "qMkjebyEkD9K0+FAgGavP22j4O0r1LI/39s4uzEAkj8WCeMUL1+HPwiKLn3H0Xs/yvv5HzKUYz+LgHFugXSXPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Seasonal: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 2,
     "marker": {
@@ -245,25 +245,25 @@
       "bdata": "j6JGHTC2aD/qCUTivBOTP5RKR7GcGnQ/Szf60KCpcD9cktIioU1QPzhWb0D/h3o/65GAtUIuXz8meGIvIN6sPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Idiosyncratic: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 3,
     "marker": {
@@ -277,25 +277,25 @@
       "bdata": "OubomcIcmj9e+5QupbKHP/DFyHb0q5g/sXqXADnCTz+sIiNn5RRqPwzNIGcKHmE/PvyobLDSgD/Ass0ejRNwPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>P Covariate: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)",
+    "legendgroup": "ปริมาณน้ำฝน (P)",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e19\u0e49\u0e33\u0e1d\u0e19 (P)</b>"
+      "text": "<b>ปริมาณน้ำฝน (P)</b>"
     },
     "legendrank": 4,
     "marker": {
@@ -309,25 +309,25 @@
       "bdata": "8p5MtCJzTz9Fn9vg/05ZP5tmbJZmoFQ/xyIiyAQKiT8sfOfpHGW2P/zRvPOHH4Q/WsolvgifpD/NX5+Dh91NPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>Baseline SPI: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 0,
     "marker": {
@@ -341,25 +341,25 @@
       "bdata": "Nwhiy+k2vj/AabcsAtOmP20b6Ebioco/PChj3BuTgT+WCOUREDl7P5JEQl3916I/SNY2+HiHdj8m62CeCOqkPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Trend: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 1,
     "marker": {
@@ -373,25 +373,25 @@
       "bdata": "u1MoNsj1qz+ZwLT25VCiP7NCaFtZ7Lg/Mll71f3goz/i3W6w60acP2bQoIUORJU/mVTQGeEAhT+Vi+l1VKKaPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Seasonal: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 2,
     "marker": {
@@ -405,25 +405,25 @@
       "bdata": "hptMvKS1nD/iB86sjzWxP+WDiB/M2qk/ehC1figMlj83XozsqFFTP3xZmGKusXE/KA/vJpuWVT9Xw3CI/bmhPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Idiosyncratic: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 3,
     "marker": {
@@ -437,25 +437,25 @@
       "bdata": "kBX4XMj1aj/psfMxOLRiP1Mx/tTRSnk/sArYMiyMUz/QNoWjgOtxP3+5fC/tMXg/k9kiTdaDnT+75CDWkk6IPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   },
   {
     "hovertemplate": "<b>%{y}</b><br>SPI Covariate: %{x:.2%}<extra></extra>",
-    "legendgroup": "\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3",
+    "legendgroup": "ดัชนี SPI-3",
     "legendgrouptitle": {
       "font": {
         "color": "black"
       },
-      "text": "<b>\u0e14\u0e31\u0e0a\u0e19\u0e35 SPI-3</b>"
+      "text": "<b>ดัชนี SPI-3</b>"
     },
     "legendrank": 4,
     "marker": {
@@ -469,14 +469,14 @@
       "bdata": "T6w0MZn1Uz9gJfXdPNhnP+9JU/bd/10/Zta1Ery4gD9OdxVr6KSRP4Oqdy/NVVY/yZsSWQZ9hD9IcDwVJGxLPw=="
     },
     "y": [
-      "\u0e02\u0e49\u0e32\u0e27\u0e2b\u0e2d\u0e21\u0e21\u0e30\u0e25\u0e34",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e08\u0e49\u0e32",
-      "\u0e02\u0e49\u0e32\u0e27\u0e40\u0e2b\u0e19\u0e35\u0e22\u0e27",
-      "\u0e21\u0e31\u0e19\u0e2a\u0e33\u0e1b\u0e30\u0e2b\u0e25\u0e31\u0e07",
-      "\u0e2d\u0e49\u0e2d\u0e22",
-      "\u0e02\u0e49\u0e32\u0e27\u0e42\u0e1e\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e2a\u0e31\u0e15\u0e27\u0e4c",
-      "\u0e22\u0e32\u0e07\u0e1e\u0e32\u0e23\u0e32",
-      "\u0e17\u0e38\u0e40\u0e23\u0e35\u0e22\u0e19"
+      "ข้าวหอมมะลิ",
+      "ข้าวเจ้า",
+      "ข้าวเหนียว",
+      "มันสำปะหลัง",
+      "อ้อย",
+      "ข้าวโพดเลี้ยงสัตว์",
+      "ยางพารา",
+      "ทุเรียน"
     ],
     "type": "bar"
   }

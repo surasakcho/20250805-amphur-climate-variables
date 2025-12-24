@@ -1898,7 +1898,7 @@
       "size": 24,
       "color": "black"
     },
-    "text": "\u0e2d\u0e38\u0e13\u0e2b\u0e20\u0e39\u0e21\u0e34",
+    "text": "อุณหภูมิ",
     "y": 0.05,
     "x": 0.5,
     "xanchor": "center",
